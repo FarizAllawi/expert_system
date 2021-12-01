@@ -1,0 +1,25 @@
+------------------------------------------
+ IMAGES
+------------------------------------------
+
+    - Illustrations   -  Freepik.com
+
+    - Dribbble shots  -  https://dribbble.com/shots/8084058/attachments/542079?mode=media
+
+
+
+------------------------------------------
+ CREDITS
+------------------------------------------
+
+    - Bootstrap 4    -    https://getbootstrap.com
+
+    - Font Awesome   -    https://fontawesome.com
+
+    - Orion Icons    -    https://orioniconlibrary.com/
+
+    - Owl Carousel   -    https://owlcarousel2.github.io/OwlCarousel2/
+
+    - Device Mockup  -    https://github.com/pixelsign/html5-device-mockups
+
+    - Modal Video    -    https://github.com/appleple/modal-video
