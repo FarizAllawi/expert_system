@@ -109,6 +109,7 @@ Class M_Pengunjung extends CI_Model {
     {
         $gejalaText = $this->input->post('gejalaText');
         $data_gejala = explode(',', $this->input->post('gejala'));
+        
         $data = [
             'gejala' => $gejalaText
         ];

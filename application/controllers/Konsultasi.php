@@ -242,6 +242,8 @@ Class Konsultasi extends CI_Controller {
 
         //penutup else 
         };   
+
+        
         $context = [
             'data_diri' => $this->M_Pengunjung->get_data($id),
             'data_gejala' => $data_gejala,
@@ -249,7 +251,7 @@ Class Konsultasi extends CI_Controller {
             'data_pengobatan' => $data_pengobatan
         ]; 
 
-
+        
         $this->load->view('user/diagnosa', $context);
     }
 }
